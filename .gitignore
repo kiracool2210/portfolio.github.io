@@ -3,6 +3,8 @@
 #ignore sass
 /bp-estate/sass
 
+#ignore estate/rent
+/bp-estate/estate/rent
 # dependencies
 /node_modules
 
