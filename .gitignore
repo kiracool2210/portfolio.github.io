@@ -2,6 +2,7 @@
 
 #ignore sass
 /bp-estate/sass
+/best-camp/sass
 
 #ignore estate/rent
 /bp-estate/estate/rent
