@@ -3,6 +3,7 @@
 #ignore sass
 /bp-estate/sass
 /best-camp/sass
+/inky-deals/sass
 
 #ignore estate/rent
 /bp-estate/estate/rent
