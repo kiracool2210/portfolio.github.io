@@ -1,9 +1,11 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
+#ignore project
+/inky-deals/
+
 #ignore sass
 /bp-estate/sass
 /best-camp/sass
-/inky-deals/sass
 /inky-deals-flexbox/sass
 
 #ignore estate/rent
